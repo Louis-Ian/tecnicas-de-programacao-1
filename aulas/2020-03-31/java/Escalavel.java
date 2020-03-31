@@ -1,4 +1,4 @@
-inteface Escalavel {
+interface Escalavel {
 	void amplia(double escala);
 	void espelha();
 }

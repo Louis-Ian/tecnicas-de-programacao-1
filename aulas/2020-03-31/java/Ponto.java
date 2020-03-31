@@ -1,26 +1,38 @@
 public class Ponto{
-	private float x,y;
+	private double x,y;
 
 	// public Ponto() {
 	// 	this(0,0);
 	// }
 
-	public Ponto(float x, float y) {
+	public Ponto(double x, double y) {
 		this.x = x;
 		this.y = y;
 	}
 
-	public void setXY(float x, float y) {
+	public void setXY(double x, double y) {
 		this.x = x;
 		this.y = y;
 	}
 
-	public void mover(float dx, float dy) {
+	public double getX() {
+		return this.x;
+	}
+
+	public double getY() {
+		return this.y;
+	}
+
+	public void mover(double dx, double dy) {
 		this.x += dx;
 		this.y += dy;
 	}
 
-	public double distancia(){
+	public double distancia() {
 		return Math.sqrt(x*x + y*y);
+	}
+
+	public String toString() {
+		return "X: " + this.x + " | Y: " + this.y;
 	}
 }

@@ -1,3 +1,5 @@
 interface ObjetoGeometrico {
-	Ponto 
+	Ponto Centro();
+	double calcularArea();
+	double calcularPerimetro();
 }
