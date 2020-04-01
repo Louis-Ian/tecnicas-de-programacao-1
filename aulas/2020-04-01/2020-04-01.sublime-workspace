@@ -33,28 +33,10 @@
 			}
 		},
 		{
-			"file": "java/Escalavel.java",
+			"file": "java/Pessoa.java",
 			"settings":
 			{
-				"buffer_size": 69,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "java/ObjetoGeometrico.java",
-			"settings":
-			{
-				"buffer_size": 100,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "java/Ponto.java",
-			"settings":
-			{
-				"buffer_size": 537,
+				"buffer_size": 1099,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -116,12 +98,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-03-31",
-		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-03-31/java"
+		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-04-01",
+		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-04-01/java"
 	],
 	"file_history":
 	[
-		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-03-31/java/Circulo.java",
 		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/2020-03-03/java/Ponto3D.java",
 		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/2020-03-03/java/PontoColorido.java",
 		"/home/louis-ian/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/2020-03-03/java/Ponto.java",
@@ -170,7 +151,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -198,80 +179,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "java/Escalavel.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 69,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "java/ObjetoGeometrico.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "java/Ponto.java",
+					"buffer": 1,
+					"file": "java/Pessoa.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 537,
+						"buffer_size": 1099,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								287,
+								287
 							]
 						],
 						"settings":
@@ -329,7 +254,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "2020-03-31.sublime-project",
+	"project": "2020-04-01.sublime-project",
 	"replace":
 	{
 		"height": 48.0
@@ -356,7 +281,7 @@
 		[
 			[
 				"",
-				"~/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-04-01/2020-04-01.sublime-project"
+				"~/Área de Trabalho/UFC 2020.1/tecnicas de programacao 1/aulas/2020-03-31/2020-03-31.sublime-project"
 			]
 		],
 		"width": 380.0
