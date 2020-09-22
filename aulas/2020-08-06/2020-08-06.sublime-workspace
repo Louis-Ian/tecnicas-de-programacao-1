@@ -126,11 +126,11 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 107.0,
 		"where_history":
 		[
 		]
@@ -179,8 +179,8 @@
 						"selection":
 						[
 							[
-								977,
-								977
+								173,
+								229
 							]
 						],
 						"settings":
@@ -189,7 +189,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 729.0,
+						"translation.y": 40.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -237,8 +237,8 @@
 						"selection":
 						[
 							[
-								102,
-								55
+								90,
+								99
 							]
 						],
 						"settings":
@@ -257,7 +257,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -294,7 +294,7 @@
 	"project": "2020-08-06.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
