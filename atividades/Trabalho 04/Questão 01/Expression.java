@@ -1,3 +1,3 @@
 interface Expression {
-    public float calculate();
+    public double calculate();
 }

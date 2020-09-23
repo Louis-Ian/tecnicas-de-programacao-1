@@ -13,7 +13,7 @@ public class Main{
                 )
             );
         
-        float result = e.calculate();
+        double result = e.calculate();
 
         System.out.println("Resultado: " + result);
     }

@@ -1,11 +1,11 @@
 class Variable implements Expression {
-    private float var;
+    private double var;
 
-    Variable(float f){
-        this.var = f;
+    Variable(double d){
+        this.var = d;
     }
 
-    public float calculate(){
+    public double calculate(){
         return this.var;
     }
 }

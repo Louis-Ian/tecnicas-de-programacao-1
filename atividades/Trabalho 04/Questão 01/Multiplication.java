@@ -6,7 +6,7 @@ class Multiplication implements Expression {
         this.right = r;
     }
 
-    public float calculate(){
+    public double calculate(){
         return this.left.calculate() * this.right.calculate();
     }
 }
